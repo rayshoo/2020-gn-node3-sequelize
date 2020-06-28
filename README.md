@@ -20,5 +20,9 @@ express --view=pug projectName
 npm i
 ```
 
+## Memo
+
 sequelize.org
 https://sequelize.org/v5/manual/querying.html#range-operators
+
+npmjs - method-override
