@@ -26,3 +26,5 @@ sequelize.org
 https://sequelize.org/v5/manual/querying.html#range-operators
 
 npmjs - method-override
+
+public bulkcreate - 한번에 많은 데이터를 넣는 method
